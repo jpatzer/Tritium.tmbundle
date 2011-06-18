@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>bottom {
+	<string>bottom() {
 	${1:}
 }</string>
 	<key>name</key>
