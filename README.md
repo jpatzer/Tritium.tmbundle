@@ -2,10 +2,10 @@ Instructions on how to get set-up
 =================================
 Getting up and going is pretty straight forward.
   <code>
-  mkdir -p ~/Library/Application\ Support/TextMate/Bundles
-  cd ~/Library/Application\ Support/TextMate/Bundles
-  git clone git@github.com:jpatzer/Tritium.tmbundle.git 'Tritium.tmbundle'
-  osascript -e 'tell app "TextMate" to reload bundles'
+  mkdir -p ~/Library/Application\ Support/TextMate/Bundles  
+  cd ~/Library/Application\ Support/TextMate/Bundles  
+  git clone git@github.com:jpatzer/Tritium.tmbundle.git 'Tritium.tmbundle'  
+  osascript -e 'tell app "TextMate" to reload bundles'  
   </code>
 
 If you want to make changes to the bundle
