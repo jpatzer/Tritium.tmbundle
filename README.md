@@ -1,5 +1,6 @@
 Instructions on how to get set-up
 =================================
+Getting up and going is pretty straight forward.
   <code>
   mkdir -p ~/Library/Application\ Support/TextMate/Bundles
   cd ~/Library/Application\ Support/TextMate/Bundles
