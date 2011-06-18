@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$("${1:xpath}[contains(@${2:class}, '${3:}')]") {
+	$0
+}</string>
+	<key>name</key>
+	<string>$(./contains) {}</string>
+	<key>tabTrigger</key>
+	<string>$</string>
+	<key>uuid</key>
+	<string>351A3E33-B972-4697-B0DB-623057D666FA</string>
+</dict>
+</plist>
