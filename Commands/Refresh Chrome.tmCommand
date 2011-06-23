@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>saveModifiedFiles</string>
+	<key>command</key>
+	<string># Check if Chrome is running, if so refresh 
+ps -xc|grep -sq Chrome &amp;&amp; osascript -e 'tell app "Google Chrome"' -e 'activate' -e 'tell app "System Events" to keystroke "r" using {command down}' -e 'end tell'
+</string>
+	<key>input</key>
+	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>@r</string>
+	<key>name</key>
+	<string>Refresh Chrome</string>
+	<key>output</key>
+	<string>discard</string>
+	<key>uuid</key>
+	<string>9995E08A-AC02-4B0D-9FE3-01C2B61BD9E4</string>
+</dict>
+</plist>
