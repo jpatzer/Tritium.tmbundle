@@ -8,6 +8,8 @@
 }</string>
 	<key>name</key>
 	<string>$(./class) {}</string>
+	<key>scope</key>
+	<string>source.ts</string>
 	<key>tabTrigger</key>
 	<string>$</string>
 	<key>uuid</key>

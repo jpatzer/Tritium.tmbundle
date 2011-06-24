@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$("./${1:xpath}[@id='${2:}']") {
-	$0
-}</string>
+	<string>value("${1:value}")$0</string>
 	<key>name</key>
-	<string>$(./id) {}</string>
+	<string>value</string>
 	<key>scope</key>
 	<string>source.ts</string>
 	<key>tabTrigger</key>
-	<string>$</string>
+	<string>va</string>
 	<key>uuid</key>
-	<string>828840C7-A633-4535-8405-D308D98FB7ED</string>
+	<string>E98FD19E-100B-4D86-8C42-6DF5621DED69</string>
 </dict>
 </plist>

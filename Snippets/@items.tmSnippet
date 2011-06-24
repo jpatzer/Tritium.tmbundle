@@ -6,6 +6,8 @@
 	<string>@${1/(T)|.*/(?1:)/}${1:i}${1/(i)|(c)|.*/(?1:d)(?2:lass)/}='$2'</string>
 	<key>name</key>
 	<string>@items</string>
+	<key>scope</key>
+	<string>source.ts</string>
 	<key>tabTrigger</key>
 	<string>@</string>
 	<key>uuid</key>

@@ -8,6 +8,8 @@
 }</string>
 	<key>name</key>
 	<string>with</string>
+	<key>scope</key>
+	<string>source.ts</string>
 	<key>tabTrigger</key>
 	<string>wi</string>
 	<key>uuid</key>
