@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$("${1:xpath}[@class='${2:}']") {
+	<string>\$("./${1:xpath}[@class='${2:}']") {
 	$0
 }</string>
 	<key>name</key>
