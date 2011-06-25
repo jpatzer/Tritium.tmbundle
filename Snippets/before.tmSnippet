@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>before {
-	${1:}
+	<string>before() {
+	$0
 }</string>
 	<key>name</key>
 	<string>before</string>
