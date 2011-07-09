@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>insert("${1:tagName}", ${2:attribute}: "${3:value}")</string>
+	<string>insert("${1:tagName}", ${2:contents}: "${3:value}", ${4:attribute}: "${5:value}")</string>
 	<key>name</key>
 	<string>insert w/ att</string>
 	<key>scope</key>
