@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>top() {
-	$0
-}</string>
+	<string>read("${1:myfile}")</string>
 	<key>name</key>
-	<string>top</string>
+	<string>read</string>
 	<key>scope</key>
 	<string>source.ts</string>
 	<key>tabTrigger</key>
-	<string>to</string>
+	<string>re</string>
 	<key>uuid</key>
-	<string>65C0FC17-979A-4BD2-A389-1E4566168CFE</string>
+	<string>E601B5D7-24BC-4B49-AB79-128D3380594A</string>
 </dict>
 </plist>

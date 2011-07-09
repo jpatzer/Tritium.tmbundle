@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>insert("${1:tagName}", ${2:attribute}: "${3:value}")</string>
+	<string>html_fragment() {
+	$0
+}</string>
 	<key>name</key>
-	<string>insert w/ att</string>
+	<string>html_fragment</string>
 	<key>scope</key>
 	<string>source.ts</string>
 	<key>tabTrigger</key>
-	<string>is</string>
+	<string>htf</string>
 	<key>uuid</key>
-	<string>71FB77BC-A648-4171-9937-736733F86F42</string>
+	<string>09A73C8E-3530-428D-8509-99713CBEDE1B</string>
 </dict>
 </plist>

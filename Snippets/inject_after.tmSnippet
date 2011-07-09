@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$("./${1:xpath}")</string>
+	<string>inject_after("${1:html}")</string>
 	<key>name</key>
-	<string>buramu</string>
+	<string>inject_after</string>
+	<key>scope</key>
+	<string>source.ts</string>
 	<key>tabTrigger</key>
-	<string>$(</string>
+	<string>ija</string>
 	<key>uuid</key>
-	<string>396026C5-40FD-4D69-B913-429AC8EC6567</string>
+	<string>5139C867-AB8C-41CC-8050-5F4E35E5E927</string>
 </dict>
 </plist>

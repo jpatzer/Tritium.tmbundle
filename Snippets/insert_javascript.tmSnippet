@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>before() {
-	$0
-}</string>
+	<string>insert_javascript("${1:js}")</string>
 	<key>name</key>
-	<string>before</string>
+	<string>insert_javascript</string>
 	<key>scope</key>
 	<string>source.ts</string>
 	<key>tabTrigger</key>
-	<string>be</string>
+	<string>isj</string>
 	<key>uuid</key>
-	<string>8224C30A-1A2D-4F1F-B9F7-08FDCAF55495</string>
+	<string>EA9ADB33-D8C8-429A-AF4F-DB2D6D4439D7</string>
 </dict>
 </plist>

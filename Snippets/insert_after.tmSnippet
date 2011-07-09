@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>after() {
-	$0
-}</string>
+	<string>insert_after("${1:tagName}")</string>
 	<key>name</key>
-	<string>after</string>
+	<string>insert_after</string>
 	<key>scope</key>
 	<string>source.ts</string>
 	<key>tabTrigger</key>
-	<string>af</string>
+	<string>isa</string>
 	<key>uuid</key>
-	<string>117C2711-7596-44D6-8B3E-F7D1B4EB4DDC</string>
+	<string>C38235F9-70CA-4578-B8CD-3BA4C0E7C12A</string>
 </dict>
 </plist>

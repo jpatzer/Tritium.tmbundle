@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>doc("${1:docType}")</string>
+	<string>wrap_text_children("${1:span}", ${2:attribute}: "${3:value}")</string>
 	<key>name</key>
-	<string>doc</string>
+	<string>wrap_text_children</string>
 	<key>scope</key>
 	<string>source.ts</string>
 	<key>tabTrigger</key>
-	<string>do</string>
+	<string>wtc</string>
 	<key>uuid</key>
-	<string>F9D8AF3E-B147-42C8-BC6B-851E4BB65F3A</string>
+	<string>ADE375BE-DA4E-499F-9B36-C2D8BD7D2FA3</string>
 </dict>
 </plist>

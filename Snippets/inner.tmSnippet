@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>insert("${1:tagName}", ${2:attribute}: "${3:value}")</string>
+	<string>inner("${1:inner_html}")</string>
 	<key>name</key>
-	<string>insert w/ att</string>
+	<string>inner</string>
 	<key>scope</key>
 	<string>source.ts</string>
 	<key>tabTrigger</key>
-	<string>is</string>
+	<string>in</string>
 	<key>uuid</key>
-	<string>71FB77BC-A648-4171-9937-736733F86F42</string>
+	<string>C896CB84-0E73-4291-BE6F-72B6C8E09600</string>
 </dict>
 </plist>
