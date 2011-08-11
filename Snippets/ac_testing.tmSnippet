@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>add_class("mw_testing")</string>
+	<key>name</key>
+	<string>ac_testing</string>
+	<key>scope</key>
+	<string>source.ts</string>
+	<key>tabTrigger</key>
+	<string>act</string>
+	<key>uuid</key>
+	<string>B0D13BFD-5073-406E-B0BD-B15050F90009</string>
+</dict>
+</plist>
