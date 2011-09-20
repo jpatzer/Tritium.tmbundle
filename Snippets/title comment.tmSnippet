@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>## `date +%Y-%m-%d` $USER
+ # ${1:Page Title}
+ # REF_URL: ${2:url}
+ ####################
+
+$0</string>
+	<key>name</key>
+	<string>title comment</string>
+	<key>tabTrigger</key>
+	<string>#</string>
+	<key>uuid</key>
+	<string>D90EA520-7459-4B1E-B707-AE893BF810D3</string>
+</dict>
+</plist>
