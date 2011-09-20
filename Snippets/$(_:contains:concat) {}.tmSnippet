@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$("./${1:xpath}[contains(concat(' ', @${2:class}, ' '), ' ${3:} ')]") {
+	$0
+}</string>
+	<key>name</key>
+	<string>$(./contains/concat) {}</string>
+	<key>scope</key>
+	<string>source.ts</string>
+	<key>tabTrigger</key>
+	<string>$</string>
+	<key>uuid</key>
+	<string>4E641524-FAC8-4EF1-990F-2BF6803B2B92</string>
+</dict>
+</plist>
