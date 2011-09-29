@@ -9,7 +9,7 @@
 	}
 }</string>
 	<key>name</key>
-	<string>attribute2</string>
+	<string>attribute_val</string>
 	<key>scope</key>
 	<string>source.ts</string>
 	<key>tabTrigger</key>
