@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>log(\$${1:var})</string>
+	<string>log(concat("=&gt;  \$${1:var}:  ", \$${1:var}))</string>
 	<key>name</key>
 	<string>log var</string>
 	<key>scope</key>
