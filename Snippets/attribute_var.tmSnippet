@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>attribute("${1:name}", \$${2:var})
-}</string>
+	<string>attribute("${1:name}", \$${2:var})</string>
 	<key>name</key>
 	<string>attribute_var</string>
 	<key>scope</key>
