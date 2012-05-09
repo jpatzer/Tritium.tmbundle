@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>add_class("mw_hide")</string>
+	<key>name</key>
+	<string>ac_hide</string>
+	<key>scope</key>
+	<string>source.ts</string>
+	<key>tabTrigger</key>
+	<string>ach</string>
+	<key>uuid</key>
+	<string>9C9CA27F-C090-483F-B66F-F6CA741C9C73</string>
+</dict>
+</plist>
