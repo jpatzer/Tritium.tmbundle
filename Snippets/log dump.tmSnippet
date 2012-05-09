@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>inner() {
-	$0
-}</string>
+	<string>log(dump())</string>
 	<key>name</key>
-	<string>inner {}</string>
+	<string>log dump</string>
 	<key>scope</key>
 	<string>source.ts</string>
 	<key>tabTrigger</key>
-	<string>in</string>
+	<string>lo</string>
 	<key>uuid</key>
-	<string>D179B984-7AB9-4752-A6DB-B575C25A8905</string>
+	<string>8AE54088-1E1D-46D3-AC87-F6DD8EE8E051</string>
 </dict>
 </plist>

@@ -3,9 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>attribute("${1:name}") {
-	remove()
-}$0</string>
+	<string>attribute("${1:name}", "")</string>
 	<key>name</key>
 	<string>attribute_rm</string>
 	<key>scope</key>
