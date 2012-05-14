@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>attribute("${1:name}", "")</string>
+	<string>remove("@${1:attribute}")</string>
 	<key>name</key>
 	<string>attribute_rm</string>
 	<key>scope</key>
 	<string>source.ts</string>
 	<key>tabTrigger</key>
-	<string>at</string>
+	<string>rm</string>
 	<key>uuid</key>
 	<string>EA21C9CF-CEF2-414B-A495-3D91562668B2</string>
 </dict>
