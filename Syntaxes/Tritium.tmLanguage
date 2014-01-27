@@ -202,6 +202,12 @@
 					<key>include</key>
 					<string>#regex_sub</string>
 				</dict>
+				<dict>
+					<key>match</key>
+					<string>\\.</string>
+					<key>name</key>
+					<string>constant.character.escape.tritium</string>
+				</dict>
 			</array>
 		</dict>
 		<dict>
