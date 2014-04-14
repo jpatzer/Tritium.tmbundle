@@ -39,6 +39,14 @@
 			<string>keyword.function.ts</string>
 		</dict>
 		<dict>
+			<key>comment</key>
+			<string>match a function argument</string>
+			<key>match</key>
+			<string>\%\w*</string>
+			<key>name</key>
+			<string>variable.argument.ts</string>
+		</dict>
+		<dict>
 			<key>match</key>
 			<string>(?:^[ \t]+)?(#|\/\/).*$\n?</string>
 			<key>name</key>
