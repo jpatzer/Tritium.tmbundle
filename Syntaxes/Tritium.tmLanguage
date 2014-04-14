@@ -95,7 +95,7 @@
 			</dict>
 			<key>match</key>
 			<string>(//).*$\n?</string>
-			<key>named</key>
+			<key>name</key>
 			<string>comment.line.double-slash.ts</string>
 		</dict>
 		<dict>
