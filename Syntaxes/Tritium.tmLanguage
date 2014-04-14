@@ -95,7 +95,7 @@
 			</dict>
 			<key>match</key>
 			<string>(//).*$\n?</string>
-			<key>name</key>
+			<key>named</key>
 			<string>comment.line.double-slash.ts</string>
 		</dict>
 		<dict>
@@ -119,6 +119,12 @@
 					<key>name</key>
 					<string>constant.character.escape</string>
 				</dict>
+				<dict>
+					<key>match</key>
+					<string>\|</string>
+					<key>name</key>
+					<string>keyword.operator.ts</string>
+				</dict>
 			</array>
 		</dict>
 		<dict>
@@ -135,6 +141,12 @@
 					<string>\\.</string>
 					<key>name</key>
 					<string>constant.character.escape</string>
+				</dict>
+				<dict>
+					<key>match</key>
+					<string>\|</string>
+					<key>name</key>
+					<string>keyword.operator.ts</string>
 				</dict>
 			</array>
 		</dict>
