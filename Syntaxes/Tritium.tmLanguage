@@ -31,6 +31,22 @@
 			<string>variable.control.variable</string>
 		</dict>
 		<dict>
+			<key>comment</key>
+			<string>match @keywords</string>
+			<key>match</key>
+			<string>\@\w+</string>
+			<key>name</key>
+			<string>keyword.function.ts</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>match a function argument</string>
+			<key>match</key>
+			<string>\%\w*</string>
+			<key>name</key>
+			<string>variable.argument.ts</string>
+		</dict>
+		<dict>
 			<key>match</key>
 			<string>(?:^[ \t]+)?(#|\/\/).*$\n?</string>
 			<key>name</key>
@@ -103,6 +119,12 @@
 					<key>name</key>
 					<string>constant.character.escape</string>
 				</dict>
+				<dict>
+					<key>match</key>
+					<string>\|</string>
+					<key>name</key>
+					<string>keyword.operator.ts</string>
+				</dict>
 			</array>
 		</dict>
 		<dict>
@@ -119,6 +141,12 @@
 					<string>\\.</string>
 					<key>name</key>
 					<string>constant.character.escape</string>
+				</dict>
+				<dict>
+					<key>match</key>
+					<string>\|</string>
+					<key>name</key>
+					<string>keyword.operator.ts</string>
 				</dict>
 			</array>
 		</dict>
